@@ -1,4 +1,8 @@
-### Hi there 👋
+### About Me:
+
+Currently working on a management system for a private language schools
+using .NET and PostgreSQL, incorporating a variety of libraries, design patterns, and best practices.
+This repository is private during ongoing development.
 
 ### Tech Stack:
 
