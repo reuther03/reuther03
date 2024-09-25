@@ -10,5 +10,7 @@ Currently working on a management system for private language schools using .NET
 <p>
 
 <p>
-  https://www.linkedin.com/in/micha%C5%82-drozd-38750a32b/
+  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
 </p>
