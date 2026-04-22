@@ -1,16 +1,33 @@
-### About Me:
+## Hi, I'm Michał 👋
 
-Currently working on a management system for private language schools using .NET and PostgreSQL, incorporating a variety of libraries, design patterns, and best practices.
+  Backend developer working with **.NET** and **PostgreSQL**. I like building real systems — modular architectures, domain-driven design, and clean separation of concerns.
 
-### Tech Stack:
+  ---
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="TypeScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="JavaScript" width="50" height="50"/>
-<p>
+  ### 🔭 Currently building — [MealMind](https://github.com/reuther03/MealMind)
 
-<p>
-  <a href="https://www.linkedin.com/in/michal-drozd-38750a32b/" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-</p>
+  A modular monolith in **.NET 10** combining nutrition tracking with an AI assistant.
+  Covers the parts of a real product: auth, subscriptions, domain logic, and retrieval-augmented generation.
+
+  - **Identity** — JWT auth, Stripe subscriptions, webhook handling
+  - **Nutrition** — food tracking, daily logs, nutrition targets
+  - **AiChat** — RAG over `pgvector` with **Gemini API** for chat and **Ollama** for embeddings
+
+  ---
+
+  ### 🛠 Stack
+
+  **Languages:** C#, SQL
+  **Backend:** .NET 10, ASP.NET Core, EF Core 10, MediatR
+  **Data:** PostgreSQL, pgvector, Npgsql
+  **AI / RAG:** Google Gemini API, Ollama, Semantic Kernel, SharpToken
+  **Integrations:** Stripe, JWT, Swagger / OpenAPI
+  **Testing:** TUnit, Moq
+  **DevOps:** Docker, Docker Compose
+  **Patterns:** Clean Architecture, DDD, CQRS, Modular Monolith, Outbox
+
+  ---
+
+  ### 📫 Contact
+
+  [LinkedIn](https://www.linkedin.com/in/michal-drozd-38750a32b/)
